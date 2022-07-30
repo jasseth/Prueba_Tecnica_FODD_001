@@ -26,7 +26,7 @@ _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener 
 _Dí cómo será ese paso_
 
 ```
-git clone url del repositorio
+git clone https://github.com/jasseth/Prueba_Tecnica_FODD_001
 cd nombreCarpeta
 npm install
 npm run dev 
